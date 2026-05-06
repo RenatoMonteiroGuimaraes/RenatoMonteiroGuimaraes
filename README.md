@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou o Renato Monteiro Guimarães 👋</h1>
-<h3 align="center">Desenvolvedor Mobile & Full Stack — apaixonado por construir apps que funcionam de verdade</h3>
+<h1 align="center">Renato Monteiro Guimarães</h1>
+<h3 align="center">Desenvolvedor Mobile & Full Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
@@ -16,37 +16,37 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre
 
-- 📱 Desenvolvedor Mobile & Full Stack com **+4 anos** de experiência criando aplicativos Android e iOS.
-- 🏗️ Atuo de ponta a ponta no ciclo de desenvolvimento — da concepção à publicação nas lojas.
-- 🌱 Atualmente cursando **Engenharia de Software** na Anhanguera; formado em **Mecatrônica, Robótica e Automação** pelo IFMT.
-- 🌎 Baseado em **Cuiabá - MT, Brasil** — aberto a oportunidades **presenciais, híbridas e remotas**.
-- 💡 Me motivam: software que entrega valor real, aprendizado contínuo e times colaborativos.
+Desenvolvedor Mobile & Full Stack com mais de 4 anos de experiência criando aplicativos Android e iOS de alta qualidade. Atuo de ponta a ponta no ciclo de desenvolvimento, da concepção à publicação nas lojas, com foco em performance, usabilidade e código sustentável.
 
----
+Atualmente cursando Engenharia de Software pela Anhanguera. Formação técnica em Mecatrônica, Robótica e Automação pelo IFMT.
 
-### 🛠️ Stack & Ferramentas
-
-**Mobile:** .NET MAUI · Xamarin.Forms · Flutter · React Native  
-**Back-end:** C# / .NET · ASP.NET Core · APIs REST  
-**Front-end / Web:** TypeScript · HTML / CSS  
-**Banco de dados:** SQL Server  
-**DevOps & Qualidade:** Git · GitFlow · Code Review · Scrum
+Baseado em Cuiabá - MT, Brasil. Aberto a oportunidades presenciais, híbridas e remotas.
 
 ---
 
-### 💼 Experiência
+### Stack & Ferramentas
 
-- **Superlógica Tecnologias** — Desenvolvedor Mobile (Xamarin / MAUI / Flutter) — *abr/2022 — atual*  
-  Apps multiplataforma para gestão empresarial, migração de Xamarin → MAUI, integração com APIs REST e SQL Server.
-
-- **BrAgromais** — Desenvolvedor de Aplicativos Móveis — *fev/2020 — abr/2022*  
-  Apps Android/iOS em C#/Xamarin para o agronegócio: gestão de safra e soluções de campo.
+- **Mobile:** .NET MAUI, Xamarin.Forms, Flutter, React Native
+- **Back-end:** C# / .NET, ASP.NET Core, APIs REST
+- **Front-end / Web:** TypeScript, HTML, CSS
+- **Banco de dados:** SQL Server
+- **Processos & DevOps:** Git, GitFlow, Code Review, Scrum
 
 ---
 
-### 📊 GitHub Stats
+### Experiência
+
+**Superlógica Tecnologias** — Desenvolvedor Mobile (Xamarin / MAUI / Flutter) — *abr/2022 — atual*
+Apps multiplataforma para gestão empresarial. Migração de projetos Xamarin para MAUI, integração com APIs REST e SQL Server, code review e desenvolvimento ágil em Scrum.
+
+**BrAgromais** — Desenvolvedor de Aplicativos Móveis — *fev/2020 — abr/2022*
+Aplicativos Android e iOS em C# / Xamarin para o agronegócio: gestão de safra e soluções de campo, com integração a APIs e bancos de dados.
+
+---
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RenatoMonteiroGuimaraes&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
@@ -55,7 +55,7 @@
 
 ---
 
-### 📫 Onde me encontrar
+### Contato
 
 <p>
   <a href="https://www.linkedin.com/in/renato-guimaraes-dev/" target="_blank">
@@ -65,5 +65,3 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
-
-<sub>⚡ Sempre aberto para conversar sobre desenvolvimento mobile, .NET, Flutter ou um bom café ☕</sub>
